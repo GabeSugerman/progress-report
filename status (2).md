@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Gabriel Sugerman
 
 #### Your section leader's name
 
-TODO
+Zhenyu Zhao
 
 #### Project title
 
-TODO
+The tales of Superbad
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have written out the story and started coding for one of the three characters.
 
 #### What have you not done for your project yet?
 
-TODO
+Finish coding for all the characters.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I encountered some formatting stuff with how I thought my project should be done but I overcame that.
